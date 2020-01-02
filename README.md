@@ -6,4 +6,4 @@ The repository should be cloned into the steam installation folder for Project C
 
 If your file manager prompts you to overwrite existing files you want to say yes, as the default skins are blank white templates and will need to be overwritten. 
 ## Credits
-These car skins were made and by Chris Broomfield, AKA JesusHorsewood and kindly shared.
+These car skins were made by and &copy; Chris Broomfield, AKA JesusHorsewood and kindly shared.
