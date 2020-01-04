@@ -3,7 +3,7 @@
 2. [Aston Martin Vantage GTE](#aston-martin-vantage-gte)
 3. [BAC Mono](#bac-mono)
 4. [Bentley Continental GT3 2015](#bentley-continental-gt3-2015)
-5. 
+5. [BMW M3 GT4](#bmw-m3-gt4)
 6. [BMW M6 GT3](#bmw-m6-gt3)
 
 ## Aston Martin Vantage GT3 
@@ -18,8 +18,8 @@
 ## Bentley Continental GT3 2015
 ![BEN_CON_GT3_LIVERY.dds](Screenshots/bentley_continental_gt3_2015.png)
 
-## 
-![bmw_m3_gt4_livery.dds]()
+## BMW M3 GT4
+![bmw_m3_gt4_livery.dds](Screenshots/bmw_m3_gt4.png)
 
 ## BMW M6 GT3
 ![bmw_m6_gt3_livery.dds](Screenshots/bmw_m6_gt3.png)
