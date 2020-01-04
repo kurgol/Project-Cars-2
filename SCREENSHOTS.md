@@ -8,7 +8,7 @@
 7. [BMW M6 GTLM](#bmw-m6-gtlm)
 8. [BMW Z4 GT3](#bmw-z4-gt3)
 9. [Caterham Seven 620 R](#caterham-seven-620-r)
-
+10. [Chevrolet Corvette C7.R](#chevrolet-corvette-c7.r)
 ## Aston Martin Vantage GT3 
 ![am_van_gt3_livery.dds](Screenshots/aston_martin_vantage_gt3.png)
 
@@ -36,8 +36,8 @@
 ## Caterham Seven 620 R
 ![cat_620r_livery.dds](Screenshots/cat_620r.png)
 
-## 
-![corvette_c7r_livery.dds](Screenshots/)
+## Chevrolet Corvette C7.R
+![corvette_c7r_livery.dds](Screenshots/corvette_c7r.png)
 
 ## 
 ![ferrari_488_gt3_livery.dds](Screenshots/)
