@@ -1,12 +1,12 @@
 # Screenshots
-1. [Aston Martin Vantage GT3](#aston-martin-vantage-gt3)  
+1. [Aston Martin Vantage GT3](#aston-martin-vantage-gt3)
+2. [Aston Martin Vantage GTE](#aston-martin-vantage-gte)
 
 ## Aston Martin Vantage GT3 
 ![am_van_gt3_livery.dds](Screenshots/aston_martin_vantage_gt3.png)
 
-
-## 
-![am_van_gte_livery.dds]()
+## Aston Martin Vantage GTE
+![am_van_gte_livery.dds](Screenshots/aston_martin_vantage_gte.png)
 
 ## 
 ![bac_mono_livery.dds]()
