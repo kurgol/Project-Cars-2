@@ -9,6 +9,8 @@ The repository should be cloned into the steam installation folder for Project C
 
 If your file manager prompts you to overwrite existing files you want to say yes, as the default skins are blank white templates and will need to be overwritten. 
 
+NOTE: Currently if you clone the repo it will also download the [Screenshots](#screenshots) and Documentation.
+
 ### Duplicates
 Project Cars 2 only allows skin substitution for one variant of each car. Chris has in some cases produced multiple replacement skins for the same vehicle. Any of the skins that have a number after the word livery in the filename are a variant, but only one will be picked up by the game and that will be the one that does NOT have a number.
 
