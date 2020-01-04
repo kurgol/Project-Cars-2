@@ -11,6 +11,7 @@
 10. [Chevrolet Corvette C7.R](#chevrolet-corvette-c7.r)
 11. [Ferrari 488 GT3](#ferrari-488-gt3)
 12. [Ferrari 488 GTE](#ferrari-488-gte)
+13. [Ford Focus RS RX](#ford-focus-rs-rx)
 
 ## Aston Martin Vantage GT3 
 ![am_van_gt3_livery.dds](Screenshots/aston_martin_vantage_gt3.png)
@@ -48,8 +49,8 @@
 ## Ferrari 488 GTE
 ![ferrari_488_gte_livery.dds](Screenshots/ferrari_488_gte.png)
 
-## 
-![ford_focus_rx_livery.dds](Screenshots/)
+## Ford Focus RS RX
+![ford_focus_rx_livery.dds](Screenshots/ford_focus_rx.png)
 
 ## 
 ![ford_gtlm_livery.dds](Screenshots/)
