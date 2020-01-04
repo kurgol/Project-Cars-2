@@ -19,8 +19,8 @@
 ## 
 ![bmw_m3_gt4_livery.dds]()
 
-## 
-![bmw_m6_gt3_livery.dds]()
+## BMW M6 GT3
+![bmw_m6_gt3_livery.dds](bmw_m6_gt3.png)
 
 ## 
 ![bmw_m6_gtlm_livery.dds]()
