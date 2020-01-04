@@ -1,7 +1,8 @@
-# Project-Cars-2
+# Project Cars 2
 1. [Installation](#installation)  
     - [Duplicates](#duplicates)
-2. [Credits](#credits)  
+2. [Screenshots](#screenshots)
+3. [Credits](#credits)  
 
 ## Installation
 The repository should be cloned into the steam installation folder for Project Cars 2. If you installed in the default location on drive C this would be `C:\Steam\steamapps\common\Project CARS 2\` and the complete parth to the files would be `C:\Steam\steamapps\common\Project CARS 2\Vehicles\Textures\CustomLiveries\`.
@@ -18,6 +19,9 @@ As an example there are multiple Ford Mustang RTR skins included currently:
 `ford_mustang_rtr_formula_drift_livery4.dds`
 
 You will need to place the one that you want into the games folder, and if it's one of the variants, you will need to rename it so the number is removed after livery. 
+
+## Screenshots
+I have [put the screenshots on their own page](SCREENSHOTS.md), this is mostly so you don't have to load 40+ images to read the installation instructions.
 
 ## Credits
 These car skins were made by and &copy; Chris Broomfield, AKA Horsewood and kindly shared.
