@@ -6,6 +6,7 @@
 5. [BMW M3 GT4](#bmw-m3-gt4)
 6. [BMW M6 GT3](#bmw-m6-gt3)
 7. [BMW M6 GTLM](#bmw-m6-gtlm)
+8. [BMW Z4 GT3](#bmw-z4-gt3)
 
 ## Aston Martin Vantage GT3 
 ![am_van_gt3_livery.dds](Screenshots/aston_martin_vantage_gt3.png)
@@ -28,8 +29,8 @@
 ## BMW M6 GTLM
 ![bmw_m6_gtlm_livery.dds](Screenshots/bmw_m6_gtlm.png)
 
-## 
-![bmw_z4_gt3_livery.dds]()
+## BMW Z4 GT3
+![bmw_z4_gt3_livery.dds](Screenshots/bmw_z4_gt3.png)
 
 ## 
 ![cat_620r_livery.dds]()
