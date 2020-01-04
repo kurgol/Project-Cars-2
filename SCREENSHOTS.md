@@ -2,6 +2,7 @@
 1. [Aston Martin Vantage GT3](#aston-martin-vantage-gt3)
 2. [Aston Martin Vantage GTE](#aston-martin-vantage-gte)
 3. [BAC Mono](#bac-mono)
+4. [Bentley Continental GT3 2015](#bentley-continental-gt3-2015)
 
 ## Aston Martin Vantage GT3 
 ![am_van_gt3_livery.dds](Screenshots/aston_martin_vantage_gt3.png)
@@ -12,8 +13,8 @@
 ## BAC Mono
 ![bac_mono_livery.dds](Screenshots/bac_mono.png)
 
-## 
-![BEN_CON_GT3_LIVERY.dds]()
+## Bentley Continental GT3 2015
+![BEN_CON_GT3_LIVERY.dds](Screenshots/bentley_continental_gt3_2015.png)
 
 ## 
 ![bmw_m3_gt4_livery.dds]()
