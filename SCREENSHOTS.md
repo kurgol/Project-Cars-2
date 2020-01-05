@@ -21,6 +21,7 @@
 20. [Ginetta G55 GT3](#ginetta-g55-gt3)
 21. [Ginetta G55 GT4](#ginetta-g55-gt4)
 22. [Jaguar E-Type V12 Group44](#jaguar-e-type-v12-group44)
+23. [KTM X-Bow GT4](#ktm-x-bow-gt4)
 
 ## Aston Martin Vantage GT3 
 ![am_van_gt3_livery.dds](Screenshots/aston_martin_vantage_gt3.png)
@@ -94,7 +95,7 @@
 ## Jaguar E-Type V12 Group44
 ![jaguar_e-type_g44_livery.dds](Screenshots/jaguar_e-type_g44.png)
 
-## 
+## KTM X-Bow GT4
 ![ktm_x-bow_gt4_livery.dds](Screenshots/ktm_x-bow_gt4.png)
 
 ## 
