@@ -24,6 +24,16 @@
 23. [KTM X-Bow GT4](#ktm-x-bow-gt4)
 24. [Mazda MX-5 Radbul](#mazda-mx-5-radbul)
 25. [Mini Countryman RX](#mini-countryman-rx)
+26. [Mitsubishi Lancer Evolution VI SVA](#mitsubishi-lancer-evolution-vi-sva)
+27. [Nissan Fairlady 240ZG GTS-II](#nissan-fairlady-240zg-gts-ii)
+28. [Nissan GT-R Nismo GT3 (R35)](#nissan-gt-r-nismo-gt3-(r35))
+29. [Nissan Skyline GT-R (R34) SMS-R](#nissan-skyline-gt-r-(r34)-sms-r)
+30. [Porsche 911 GT3 R](#porsche-911-gt3-r)
+31. [Porsche 911 GT3 R Endurance](#porsche-911-gt3-r-endurance)
+32. [Renault 5 Maxi Turbo](#renault-5-maxi-turbo)
+33. [Renault Mégane R.S. SMS-R Rallycross](#renault-mégane-r.s.-sms-r-rallycross)
+34. [Toyota GT-86 Rocket Bunny GT4](#toyota-gt-86-rocket-bunny-gt4)
+35. [Toyota GT-86 Rocket Bunny Street](#toyota-gt-86-rocket-bunny-street)
 
 ## Aston Martin Vantage GT3 
 ![am_van_gt3_livery.dds](Screenshots/aston_martin_vantage_gt3.png)
@@ -108,38 +118,38 @@
 
 ![mini_rx_livery_alpha.dds](Screenshots/mini_rx_alpha.png)
 
-## 
+## Mitsubishi Lancer Evolution VI SVA
 ![mit_evo_sva_livery.dds](Screenshots/mit_evo_sva.png)
 
-## 
+## Nissan Fairlady 240ZG GTS-II
 ![nissan_fairladyz_gts_livery.dds](Screenshots/nissan_fairladyz_gts.png)
 
 ![nissan_fairladyz_gts_livery2.dds](Screenshots/nissan_fairladyz_gts_2.png)
 
-## 
+## Nissan GT-R Nismo GT3 (R35)
 ![nissan_gtr_gt3_livery.dds](Screenshots/nissan_gtr_gt3.png)
 
-## 
+## Nissan Skyline GT-R (R34) SMS-R
 ![nissan_r34_smsr_livery.dds](Screenshots/nissan_r34_smsr.png)
 
 ![nissan_r34_smsr_livery2.dds](Screenshots/nissan_r34_smsr_2.png)
 
-## 
+## Porsche 911 GT3 R
 ![porsche_991_gt3_r_livery.dds](Screenshots/porsche_991_gt3_r.png)
 
-## 
+## Porsche 911 GT3 R Endurance
 ![porsche_991_rsr_livery.dds](Screenshots/porsche_991_rsr.png)
 
-## 
+## Renault 5 Maxi Turbo
 ![renault_5_maxi_turbo_livery.dds](Screenshots/renault_5_maxi_turbo.png)
 
 ![renault_5_maxi_turbo_livery2.dds](Screenshots/renault_5_maxi_turbo_2.png)
 
-## 
+## Renault Mégane R.S. SMS-R Rallycross
 ![renault_megane_rx_livery.dds](Screenshots/renault_megane_rx.png)
 
-## 
+## Toyota GT-86 Rocket Bunny GT4
 ![toy_gt86_rb_livery.dds](Screenshots/toy_gt86_rb.png)
 
-## 
+## Toyota GT-86 Rocket Bunny Street
 ![toy_gt86_rb_road_livery.dds](Screenshots/toy_gt86_rb_road.png)
