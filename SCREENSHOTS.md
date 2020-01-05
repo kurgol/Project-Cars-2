@@ -15,10 +15,8 @@
 14. [Ford GT LM GTE](#ford-gt-lm-gte)
 15. [Ford Mustang '66 RTR TransAm](#ford-mustang-'66-rtr-transam)
 16. [Ford Mustang Boss 302R](#ford-mustang-boss-302r)
-17. [](#)
-18. [](#)
-19. [](#)
-20. [Ford Mustang RTR GT4](#ford-mustang-rtr-gt4)
+17. [Ford Mustang RTR Spec-5D](#ford-mustang-rtr-spec-5d)
+18. [Ford Mustang RTR GT4](#ford-mustang-rtr-gt4)
 
 ## Aston Martin Vantage GT3 
 ![am_van_gt3_livery.dds](Screenshots/aston_martin_vantage_gt3.png)
@@ -68,13 +66,11 @@
 ## Ford Mustang Boss 302R
 ![ford_mustang_boss_livery.dds](Screenshots/ford_mustang_boss.png)
 
-## Ford Mustang RTR Drift
+## Ford Mustang RTR Spec-5D
 ![ford_mustang_rtr_formula_drift_livery.dds](Screenshots/ford_mustang_rtr_formula_drift.png)
 
-## Ford Mustang RTR Drift
 ![ford_mustang_rtr_formula_drift_livery2.dds](Screenshots/ford_mustang_rtr_formula_drift2.png)
 
-## Ford Mustang RTR Drift
 ![ford_mustang_rtr_formula_drift_livery4.dds](Screenshots/ford_mustang_rtr_formula_drift4.png)
 
 ## Ford Mustang RTR GT4
