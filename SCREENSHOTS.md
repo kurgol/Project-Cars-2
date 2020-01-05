@@ -22,7 +22,7 @@
 21. [Ginetta G55 GT4](#ginetta-g55-gt4)
 22. [Jaguar E-Type V12 Group44](#jaguar-e-type-v12-group44)
 23. [KTM X-Bow GT4](#ktm-x-bow-gt4)
-
+24. [Mazda MX-5 Radbul](#mazda-mx-5-radbul)
 ## Aston Martin Vantage GT3 
 ![am_van_gt3_livery.dds](Screenshots/aston_martin_vantage_gt3.png)
 
@@ -98,8 +98,8 @@
 ## KTM X-Bow GT4
 ![ktm_x-bow_gt4_livery.dds](Screenshots/ktm_x-bow_gt4.png)
 
-## 
-![MAZDA_MX5_RADBUL_LIVERY.dds](Screenshots/mazda_mx5_radbul.png)
+## Mazda MX-5 Radbul
+![MAZDA_MX5_RADBUL_LIVERY.dds](Screenshots/mazda_mx-5_radbul.png)
 
 ## 
 ![mini_rx_livery.dds](Screenshots/mini_rx.png)
