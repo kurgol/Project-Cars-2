@@ -20,7 +20,7 @@
 19. [Ford RS 200 Evo](#ford-rs200-evo)
 20. [Ginetta G55 GT3](#ginetta-g55-gt3)
 21. [Ginetta G55 GT4](#ginetta-g55-gt4)
-
+22. [Jaguar E-Type V12 Group44](#jaguar-e-type-v12-group44)
 
 ## Aston Martin Vantage GT3 
 ![am_van_gt3_livery.dds](Screenshots/aston_martin_vantage_gt3.png)
@@ -91,7 +91,7 @@
 ## Ginetta G55 GT4
 ![ginetta_g55_gt4_livery.dds](Screenshots/ginetta_g55_gt4.png)
 
-## 
+## Jaguar E-Type V12 Group44
 ![jaguar_e-type_g44_livery.dds](Screenshots/jaguar_e-type_g44.png)
 
 ## 
@@ -112,7 +112,6 @@
 ## 
 ![nissan_fairladyz_gts_livery.dds](Screenshots/nissan_fairladyz_gts.png)
 
-## 
 ![nissan_fairladyz_gts_livery2.dds](Screenshots/nissan_fairladyz_gts_2.png)
 
 ## 
@@ -121,7 +120,6 @@
 ## 
 ![nissan_r34_smsr_livery.dds](Screenshots/nissan_r34_smsr.png)
 
-## 
 ![nissan_r34_smsr_livery2.dds](Screenshots/nissan_r34_smsr_2.png)
 
 ## 
@@ -133,7 +131,6 @@
 ## 
 ![renault_5_maxi_turbo_livery.dds](Screenshots/renault_5_maxi_turbo.png)
 
-## 
 ![renault_5_maxi_turbo_livery2.dds](Screenshots/renault_5_maxi_turbo_2.png)
 
 ## 
