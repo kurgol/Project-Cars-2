@@ -135,7 +135,7 @@
 ![nissan_fairladyz_gts_livery2.dds](Screenshots/nissan_fairladyz_gts_2.png)
 
 ## Nissan GT-R Nismo GT3 (R35)
-![nissan_gtr_gt3_livery.dds](Screenshots/nissan_gtr_gt3.jpg)
+![nissan_gtr_gt3_livery.dds](Screenshots/nissan_gtr_gt3_livery.jpg)
 
 ## Nissan Skyline GT-R (R34) SMS-R
 ![nissan_r34_smsr_livery.dds](Screenshots/nissan_r34_smsr.png)
@@ -143,7 +143,7 @@
 ![nissan_r34_smsr_livery2.dds](Screenshots/nissan_r34_smsr_2.png)
 
 ## Porsche 911 GT3 R
-![porsche_991_gt3_r_livery.dds](Screenshots/porsche_991_gt3_r.jpg)
+![porsche_991_gt3_r_livery.dds](Screenshots/porsche_991_gt3_r_livery.jpg)
 
 ## Porsche 911 GT3 R Endurance
 ![porsche_991_rsr_livery.dds](Screenshots/porsche_991_rsr.jpg)
