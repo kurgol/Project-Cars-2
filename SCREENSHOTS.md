@@ -44,7 +44,7 @@
 ![am_van_gt4_livery.dds](Screenshots/aston_martin_vantage_gt4.png)
 
 ## Aston Martin Vantage GTE
-![am_van_gte_livery.dds](Screenshots/aston_martin_vantage_gte.png)
+![am_van_gte_livery.dds](Screenshots/aston_martin_vantage_gte.jpg)
 
 ## BAC Mono
 ![bac_mono_livery.dds](Screenshots/bac_mono.png)
@@ -58,11 +58,16 @@
 ## BMW M6 GT3
 ![bmw_m6_gt3_livery.dds](Screenshots/bmw_m6_gt3.png)
 
+![bmw_m6_gt3_livery.dds](Screenshots/bmw_m6_gt3_livery.jpg)
+
 ## BMW M6 GTLM
-![bmw_m6_gtlm_livery.dds](Screenshots/bmw_m6_gtlm.png)
+![bmw_m6_gtlm_livery.dds](Screenshots/bmw_m6_gtlm.jpg)
 
 ## BMW Z4 GT3
-![bmw_z4_gt3_livery.dds](Screenshots/bmw_z4_gt3.png)
+![bmw_z4_gt3_livery.dds](Screenshots/bmw_z4_gt3_livery.jpg)
+
+## Cadillac ATS VR 
+![cadillac_ats_vr_livery.dds](Screenshots/cadillac_ats_vr_livery.jpg)
 
 ## Caterham Seven 620 R
 ![cat_620r_livery.dds](Screenshots/cat_620r.png)
@@ -74,13 +79,13 @@
 ![ferrari_488_challenge_livery.dds](Screenshots/ferrari_488_challenge.png)
 
 ## Ferrari 488 GT3
-![ferrari_488_gt3_livery.dds](Screenshots/ferrari_488_gt3.png)
+![ferrari_488_gt3_livery.dds](Screenshots/ferrari_488_gt3_livery.jpg)
 
 ## Ferrari 488 GTE
 ![ferrari_488_gte_livery.dds](Screenshots/ferrari_488_gte.png)
 
 ## Ford Focus RS RX
-![ford_focus_rx_livery.dds](Screenshots/ford_focus_rx.png)
+![ford_focus_rx_livery.dds](Screenshots/ford_focus_rx.jpg)
 
 ## Ford GT LM GTE
 ![ford_gtlm_livery.dds](Screenshots/ford_gtlm.png)
@@ -103,6 +108,7 @@
 
 ## Ford RS200 Evo
 ![ford_rs200_livery.dds](Screenshots/ford_rs200.png)
+![ford_rs200_livery.dds](Screenshots/ford_rs200.jpg)
 
 ![ford_rs200_livery2.dds](Screenshots/ford_rs200_2.jpg)
 
