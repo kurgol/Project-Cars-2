@@ -104,7 +104,7 @@
 ## Ford RS200 Evo
 ![ford_rs200_livery.dds](Screenshots/ford_rs200.png)
 
-![ford_rs200_livery2.dds](Screenshots/ford_rs200_2.png)
+![ford_rs200_livery2.dds](Screenshots/ford_rs200_2.jpg)
 
 ## Ginetta G55 GT3
 ![ginetta_g55_gt3_livery.dds](Screenshots/ginetta_g55_gt3.png)
