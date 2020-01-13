@@ -44,7 +44,7 @@
 ![am_van_gt4_livery.dds](Screenshots/aston_martin_vantage_gt4.png)
 
 ## Aston Martin Vantage GTE
-![am_van_gte_livery.dds](Screenshots/aston_martin_vantage_gte.png)
+![am_van_gte_livery.dds](Screenshots/aston_martin_vantage_gte.jpg)
 
 ## BAC Mono
 ![bac_mono_livery.dds](Screenshots/bac_mono.png)
@@ -58,11 +58,16 @@
 ## BMW M6 GT3
 ![bmw_m6_gt3_livery.dds](Screenshots/bmw_m6_gt3.png)
 
+![bmw_m6_gt3_livery.dds](Screenshots/bmw_m6_gt3_livery.jpg)
+
 ## BMW M6 GTLM
-![bmw_m6_gtlm_livery.dds](Screenshots/bmw_m6_gtlm.png)
+![bmw_m6_gtlm_livery.dds](Screenshots/bmw_m6_gtlm.jpg)
 
 ## BMW Z4 GT3
-![bmw_z4_gt3_livery.dds](Screenshots/bmw_z4_gt3.png)
+![bmw_z4_gt3_livery.dds](Screenshots/bmw_z4_gt3_livery.jpg)
+
+## Cadillac ATS VR 
+![cadillac_ats_vr_livery.dds](Screenshots/cadillac_ats_vr_livery.jpg)
 
 ## Caterham Seven 620 R
 ![cat_620r_livery.dds](Screenshots/cat_620r.png)
@@ -74,13 +79,13 @@
 ![ferrari_488_challenge_livery.dds](Screenshots/ferrari_488_challenge.png)
 
 ## Ferrari 488 GT3
-![ferrari_488_gt3_livery.dds](Screenshots/ferrari_488_gt3.png)
+![ferrari_488_gt3_livery.dds](Screenshots/ferrari_488_gt3_livery.jpg)
 
 ## Ferrari 488 GTE
 ![ferrari_488_gte_livery.dds](Screenshots/ferrari_488_gte.png)
 
 ## Ford Focus RS RX
-![ford_focus_rx_livery.dds](Screenshots/ford_focus_rx.png)
+![ford_focus_rx_livery.dds](Screenshots/ford_focus_rx.jpg)
 
 ## Ford GT LM GTE
 ![ford_gtlm_livery.dds](Screenshots/ford_gtlm.png)
@@ -103,8 +108,9 @@
 
 ## Ford RS200 Evo
 ![ford_rs200_livery.dds](Screenshots/ford_rs200.png)
+![ford_rs200_livery.dds](Screenshots/ford_rs200.jpg)
 
-![ford_rs200_livery2.dds](Screenshots/ford_rs200_2.png)
+![ford_rs200_livery2.dds](Screenshots/ford_rs200_2.jpg)
 
 ## Ginetta G55 GT3
 ![ginetta_g55_gt3_livery.dds](Screenshots/ginetta_g55_gt3.png)
@@ -135,7 +141,7 @@
 ![nissan_fairladyz_gts_livery2.dds](Screenshots/nissan_fairladyz_gts_2.png)
 
 ## Nissan GT-R Nismo GT3 (R35)
-![nissan_gtr_gt3_livery.dds](Screenshots/nissan_gtr_gt3.png)
+![nissan_gtr_gt3_livery.dds](Screenshots/nissan_gtr_gt3_livery.jpg)
 
 ## Nissan Skyline GT-R (R34) SMS-R
 ![nissan_r34_smsr_livery.dds](Screenshots/nissan_r34_smsr.png)
@@ -143,10 +149,10 @@
 ![nissan_r34_smsr_livery2.dds](Screenshots/nissan_r34_smsr_2.png)
 
 ## Porsche 911 GT3 R
-![porsche_991_gt3_r_livery.dds](Screenshots/porsche_991_gt3_r.png)
+![porsche_991_gt3_r_livery.dds](Screenshots/porsche_991_gt3_r_livery.jpg)
 
 ## Porsche 911 GT3 R Endurance
-![porsche_991_rsr_livery.dds](Screenshots/porsche_991_rsr.png)
+![porsche_991_rsr_livery.dds](Screenshots/porsche_991_rsr.jpg)
 
 ## Renault 5 Maxi Turbo
 ![renault_5_maxi_turbo_livery.dds](Screenshots/renault_5_maxi_turbo.png)
