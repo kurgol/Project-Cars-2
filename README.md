@@ -26,4 +26,4 @@ You will need to place the one that you want into the games folder, and if it's 
 I have [put the screenshots on their own page](SCREENSHOTS.md), this is mostly so you don't have to load 40+ images to read the installation instructions.
 
 ## Credits
-These car skins were made by and &copy; Chris Broomfield, AKA Horsewood and kindly shared.
+These car skins were made by and &copy; Chris Broomfield, AKA @Horsewood74 and kindly shared.
