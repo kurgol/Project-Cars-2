@@ -3,6 +3,7 @@
     - [Duplicates](#duplicates)
 2. [Screenshots](#screenshots)
 3. [Credits](#credits)  
+4. [References](#references)
 
 ## Installation
 The repository should be cloned into the steam installation folder for Project Cars 2. If you installed in the default location on drive C this would be `C:\Steam\steamapps\common\Project CARS 2\` and the complete parth to the files would be `C:\Steam\steamapps\common\Project CARS 2\Vehicles\Textures\CustomLiveries\`.
@@ -27,3 +28,7 @@ I have [put the screenshots on their own page](SCREENSHOTS.md), this is mostly s
 
 ## Credits
 These car skins were made by and &copy; Chris Broomfield, AKA [Horsewood](https://github.com/Horsewood74) and kindly shared.
+
+## References
+* [Generic Mod Enabler (jsgme) [softpedia]](https://www.softpedia.com/get/Others/Miscellaneous/Generic-Mod-Enabler.shtmlhttps://www.softpedia.com/get/Others/Miscellaneous/Generic-Mod-Enabler.shtml)
+* [Jsgme (Mod Enabler) v2.6.0.157 [racedepartment]](https://www.racedepartment.com/downloads/jsgme-mod-enabler.13803/)
